@@ -9,17 +9,18 @@
 
 
 FRONT
+Rotas
 
 ## npx create-react-app client
-
+1º instalar pacotes de bibliotecas 
 ## npm install axios react-router-dom react-bootstrap
 
 ## - axios`: para fazer chamadas de API ao backend.
 ## react-router-dom`: para configurar as rotas do aplicativo React.
 ## react-bootstrap`: para ter acesso a componentes prontos de UI baseados no Bootstrap.
 
-Executar o Frontend (React)
+Rodar o Front end
 ## npm start
 
-Executar o Backend (Node.js)
+Rodar o BAcK-EnD
 ## node server.js
