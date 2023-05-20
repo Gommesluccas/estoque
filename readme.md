@@ -10,9 +10,9 @@
 
 FRONT
 Rotas
-
+1º criar react= folder client
 ## npx create-react-app client
-1º instalar pacotes de bibliotecas 
+2º instalar pacotes de bibliotecas 
 ## npm install axios react-router-dom react-bootstrap
 
 ## - axios`: para fazer chamadas de API ao backend.
